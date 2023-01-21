@@ -15,3 +15,7 @@
 * Chave em 4096 bit key
 * Sem tempo de validade (não expira)
 * criada pelo GPG
+
+### Disponivel em pgp.surf.nl
+* Aqueles que puderem assinar a chave e enviar para o 
+servidor, ficarei grato.
