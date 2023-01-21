@@ -4,7 +4,7 @@
 
 </div>
 
-## Contém os seguintes arquivos:
+## Contém os seguintes arquivos
 
 * public.gpg -> Chave em formato bin da GPG
 * chave_pub.txt -> Chave em txt
